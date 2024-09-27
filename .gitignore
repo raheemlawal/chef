@@ -1,0 +1,7 @@
+chef-env/
+chroma/
+*.pyc
+__pycache__
+.DS_Store
+backup
+test_rag.py
