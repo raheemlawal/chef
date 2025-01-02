@@ -2,6 +2,8 @@
 
 ## Stack
 
+Python
+
 ## Usage
 
 ## 📝 Notes
