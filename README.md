@@ -1,4 +1,5 @@
 # Chef: RAG App
+Retrieval Augmented Generation combines a data source with the power of LLMs.
 
 ## Stack
 
