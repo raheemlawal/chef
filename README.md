@@ -6,4 +6,6 @@ Python
 
 ## Usage
 
+Clone repo to use locally
+
 ## 📝 Notes
