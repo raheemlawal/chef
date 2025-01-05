@@ -12,3 +12,5 @@ Chroma
 Clone repo to use locally
 
 ## 📝 Notes
+
+Create env
