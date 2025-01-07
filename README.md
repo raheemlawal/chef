@@ -9,8 +9,8 @@ Chroma
 
 ## Usage
 
-Clone repo to use locally
+Clone repo to use locally.
 
 ## 📝 Notes
 
-Create env
+Create env.
