@@ -3,9 +3,9 @@ Retrieval Augmented Generation combines a data source with the power of LLMs.
 
 ## Technologies
 
-Python
+Scripts: Python
 
-Chroma
+Database: Chroma
 
 ## Usage
 
